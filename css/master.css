@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+}
+
+body {
+  width: 50%;
+  margin: 0px auto;
+}
+
+header img {
+  width: 100%;
+  margin: 0px auto;
+  margin-top: 25px;
+  position: block;
+}
+
+.posts h1 {
+  font-size: 2.55rem;
+font-weight: 700;
+line-height: 1.9rem;
+margin-top: 30px;
+}
+
+.posts h3 {
+  font-size: .85rem;
+font-weight: 400;
+line-height: 1.9rem;
+margin: 10px 0px;
+color: rgba(71,82,93,.4);
+}
+
+.posts img {
+  width: 100%;
+  margin: 10px 0px;
+}
